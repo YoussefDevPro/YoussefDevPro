@@ -5,7 +5,14 @@ Welcome to my GitHub profile! I'm a 14-year-old developer passionate about codin
 ---
 
 ## 🧑‍💻 About Me
-- 💻 I work with **Python**, **HTML**, **CSS**, **JavaScript**, and **C#**.
+- 💻 I work with:
+
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat-square)
+
 - 🌱 Currently learning **Go** and **Rust**.
 - 🎮 When I'm not coding, you'll find me hanging out on Discord or exploring new tech. 😄
 - 💬 Feel free to ask me about programming, especially Python and web development!
