@@ -20,8 +20,8 @@ Welcome to my GitHub profile! I'm a 14-year-old developer passionate about codin
 
 ## 🛠️ Technologies & Tools
 - **Languages:** Python, JavaScript, C#, HTML, CSS, Go, Rust  
-- **Tools:** VS Code, Git, Linux (Arch with KDE Plasma 🖥️)  
-- **Frameworks:** Node.js, Flask, ASP.NET  
+- **Tools:** VS Code, Pycharm, Rider, Visual Studio, RustRover, GoLang, Git, Linux (Arch with hyprland 🖥️) , long list....
+- **Frameworks:** Node.js, Django, ASP.NET, Kivy etc  
 
 ---
 
