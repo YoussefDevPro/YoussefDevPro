@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm a 14-year-old developer passionate about codin
 - **Tools:** ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square) ![VS](https://img.shields.io/badge/-VS-5C2D91?logo=visual-studio&logoColor=white&style=flat-square) ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white&style=flat-square) ![Rider](https://img.shields.io/badge/-Rider-000000?logo=rider&logoColor=white&style=flat-square) ![RustRover](https://img.shields.io/badge/-RustRover-000000?logo=rust&logoColor=white&style=flat-square) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square) ![Arch](https://img.shields.io/badge/-Arch-1793D1?logo=arch-linux&logoColor=white&style=flat-square) ![Hyprland](https://img.shields.io/badge/-Hyprland-0A1318?logo=linux&logoColor=white&style=flat-square)
 
 
-- **Frameworks:** ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square) ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat-square) ![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?logo=dotnet&logoColor=white&style=flat-square) ![Kivy](https://img.shields.io/badge/-Kivy-4A4A4A?logo=kivy&logoColor=white&style=flat-square)
+- **Frameworks:** ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat-square) ![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?logo=dotnet&logoColor=white&style=flat-square) ![Kivy](https://img.shields.io/badge/-Kivy-4A4A4A?logo=kivy&logoColor=white&style=flat-square)
 
 
 ---
